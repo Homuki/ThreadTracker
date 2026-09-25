@@ -20,7 +20,7 @@ NO_REPLY_TAG_ID = 1233559692513382502
 
 FORUMS = [
     {"forum_id": 1233558070781804585, "tag_id": 1233559692513382502, "resolved_tag_ids": [1429745050287345794, 1429745106382094387], "name": "Jr Dev Application", "icon": "🎓️"},
-    {"forum_id": 1538855563708997712, "tag_id": 1538856693595774996, "resolved_tag_ids": [1538856741813620806, 1538856775099355146], "name": "Ready for Review (SDT)", "icon": "🖍️"},
+    {"forum_id": 1538855563708997712, "tag_id": 1538856693595774996, "resolved_tag_ids": [1538856741813620806, 1538856775099355146], "name": "Set Plan Review(SDT)", "icon": "🖍️"},
     {"forum_id": 1038471602901368952, "tag_id": 1311106891526701100, "resolved_tag_ids": [1038479950413574274, 1063506394545913986], "name": "Set Plan Review", "icon": "🔎"},
     {"forum_id": 1038471602901368952, "tag_id": 1038479228351545495, "resolved_tag_ids": [1038479950413574274, 1063506394545913986], "name": "Ready for Review", "icon": "🗒️"},
 ]
